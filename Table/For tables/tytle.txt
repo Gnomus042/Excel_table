@@ -1,0 +1,8 @@
+<html>
+<head>
+    <title>E-Table</title>
+    <link rel="stylesheet" href="C:/Users/Настя/Documents/Visual Studio 2017/Projects/Table/Table/For tables/style.css"/>
+    
+</head>
+<body>
+    <h1>Test Table</h1>

@@ -1,0 +1,43 @@
+c:\users\настя\documents\visual studio 2017\Projects\Table\Table\bin\Debug\Table.exe
+c:\users\настя\documents\visual studio 2017\Projects\Table\Table\bin\Debug\Table.pdb
+c:\users\настя\documents\visual studio 2017\Projects\Table\Table\obj\Debug\Table.csprojResolveAssemblyReference.cache
+c:\users\настя\documents\visual studio 2017\Projects\Table\Table\obj\Debug\Table.TableForm.resources
+c:\users\настя\documents\visual studio 2017\Projects\Table\Table\obj\Debug\Table.Properties.Resources.resources
+c:\users\настя\documents\visual studio 2017\Projects\Table\Table\obj\Debug\Table.csproj.GenerateResource.Cache
+c:\users\настя\documents\visual studio 2017\Projects\Table\Table\obj\Debug\Table.exe
+c:\users\настя\documents\visual studio 2017\Projects\Table\Table\obj\Debug\Table.pdb
+C:\Users\Настя\documents\visual studio 2017\Projects\Table\Table\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Настя\documents\visual studio 2017\Projects\Table\Table\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Настя\documents\visual studio 2017\Projects\Table\Table\bin\Debug\Interop.VBIDE.dll
+C:\Users\Настя\documents\visual studio 2017\Projects\Table\Table\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Настя\documents\visual studio 2017\Projects\Table\Table\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Настя\documents\visual studio 2017\Projects\Table\Table\obj\Debug\Interop.VBIDE.dll
+C:\Users\Настя\documents\visual studio 2017\Projects\Table\Table\obj\Debug\Table.csproj.ResolveComReference.cache
+C:\Users\Настя\documents\visual studio 2017\Projects\Table\Table\obj\Debug\Table.NewTableForm.resources
+C:\Users\Настя\documents\visual studio 2017\Projects\Table\Table\obj\Debug\Table.GetNewPath.resources
+C:\Users\Настя\documents\visual studio 2017\Projects\Table\Table\obj\Debug\Table.TableAddress.resources
+C:\Users\Настя\Documents\Visual Studio 2017\Projects\Table\Table\obj\Debug\Table.YesNo.resources
+C:\Users\Настя\Documents\Visual Studio 2017\Projects\Table\Table\obj\Debug\Table.UnitTests.resources
+C:\Users\Настя\documents\visual studio 2017\Projects\Table\Table\obj\Debug\Table.Info.resources
+C:\Users\Настя\Documents\Visual Studio 2017\Projects\Table\Table\obj\Debug\Table.csproj.CoreCompileInputs.cache
+E:\Table\Table\obj\Debug\Table.csprojResolveAssemblyReference.cache
+E:\Table\Table\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\Table\Table\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Table\Table\obj\Debug\Interop.VBIDE.dll
+E:\Table\Table\obj\Debug\Table.csproj.ResolveComReference.cache
+E:\Table\Table\obj\Debug\Table.TableForm.resources
+E:\Table\Table\obj\Debug\Table.GetNewPath.resources
+E:\Table\Table\obj\Debug\Table.Info.resources
+E:\Table\Table\obj\Debug\Table.NewTableForm.resources
+E:\Table\Table\obj\Debug\Table.Properties.Resources.resources
+E:\Table\Table\obj\Debug\Table.TableAddress.resources
+E:\Table\Table\obj\Debug\Table.YesNo.resources
+E:\Table\Table\obj\Debug\Table.csproj.GenerateResource.cache
+E:\Table\Table\obj\Debug\Table.csproj.CoreCompileInputs.cache
+E:\Table\Table\obj\Debug\Table.exe
+E:\Table\Table\obj\Debug\Table.pdb
+E:\Table\Table\bin\Debug\Table.exe
+E:\Table\Table\bin\Debug\Table.pdb
+E:\Table\Table\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\Table\Table\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Table\Table\bin\Debug\Interop.VBIDE.dll
